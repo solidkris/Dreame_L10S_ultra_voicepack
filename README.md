@@ -1,4 +1,4 @@
-# Dreame_L10S_ultra_voicepack
+# Dreame_L10S_ultra_voicepackFR
 # Pack Vocain Français Amplifié pour Dreame (Valetudo)
 
 Pack de voix en français généré via Google TTS, normalisé et amplifié (+12 dB) pour le haut-parleur des robots aspirateurs Dreame (notamment le Dreame L10s Ultra et modèles similaires sous Valetudo).
