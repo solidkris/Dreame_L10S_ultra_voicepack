@@ -7,7 +7,7 @@ Pack de voix en français généré via Google TTS, normalisé et amplifié (+12
 
 1. Rendez-vous dans l'interface Valetudo : **Robot Settings** -> **Misc Settings** -> **Voice Pack Settings**.
 2. Remplissez les champs :
-   - **URL :** `[https://github.com/solidkris/Dreame_L10S_ultra_voicepack/blob/main/voicepack_fr.tar.gz]`
+   - **URL :** `[https://github.com/solidkris/Dreame_L10S_ultra_voicepack/raw/main/voicepack_fr.tar.gz](https://github.com/solidkris/Dreame_L10S_ultra_voicepack/raw/main/voicepack_fr.tar.gz)`
    - **Language Code :** `fr`
    - **MD5 Hash :** *481fa5a35d6f37788da2cbc3961236a7*
 3. Cliquez sur **Set Voice Pack**.
